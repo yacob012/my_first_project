@@ -1,0 +1,50 @@
+.container{
+    width: 125vh;
+    height: 100vh;
+    background-color: #050044;
+}
+.content{
+    width: 400px;
+    height: 350px;
+    background-color: 
+    #0A0085;
+    color: white;
+    transform: translate(219px, 130px);
+    border-radius: 19px;
+}
+p  {
+    font-weight: bold;
+    font-size: 38px;
+    text-align: center;
+}
+#email{
+    padding-left: 155px;
+    padding-top: 20px;
+}
+#pwd{
+    padding-left: 143px;
+
+}
+label{
+    font-size: 25px;
+    font-weight: bold;
+}
+*{
+    box-sizing: border-box;
+}
+#inp{
+    margin-left: 77px;
+    padding-left: 53px;
+}
+#im{
+    margin-left: 77px;
+    padding-left: 53px;
+}
+.height{
+    height: 77px;
+}
+input{
+    border-radius: 10px;
+    height: 29px;
+    background-color: aliceblue;
+}
